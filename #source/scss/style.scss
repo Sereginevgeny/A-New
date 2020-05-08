@@ -1,5 +1,9 @@
 @import "nullstyle.scss";
 
+body{
+	min-width: 1020px;
+}
+
 //Шапка
 .main-header {
 	padding-top: 60px;
