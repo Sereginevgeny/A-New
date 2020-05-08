@@ -73,6 +73,10 @@ h6 {
   font-size: inherit;
   font-weight: 400; }
 
+body{
+	min-width: 1020px;
+}
+
 .main-header {
   padding-top: 60px;
   padding-bottom: 150px;
